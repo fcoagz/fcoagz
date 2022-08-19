@@ -1,6 +1,6 @@
 ### hello, i'm francisco griman 👋
 
-**Francisco Griman** es un youtuber, `programador (lenguaje de programación bat)`, conocido por sus vídeos tutoriales de la Nintendo DSi y también en gameplays basados en juegos de fangame.
+**Francisco Griman** es un creador de contenido en youtube, `programador (lenguaje de programación bat)`, conocido por sus vídeos tutoriales de la Nintendo DSi y también en gameplays basados en juegos de fangame.
 Actualmente, esta trabajando en sus próximos proyectos en la programación en GitHub, mientra sube contenido en YouTube.
 
 el presente repositorio **fcoagz/fcoagz**, aparecera en su perfil de **fcoagz** de GitHub, donde mostrara sus proyectos o ideas para la creacion y el desarrollo del algun programa.
