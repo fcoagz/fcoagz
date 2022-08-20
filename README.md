@@ -8,5 +8,6 @@ los presentes proyecto que ha realizado son:
 
 - [Calculadora-](https://github.com/fcoagz/Calculadora-): una calculadora simple que ayuda operar distintas operaciones basicas.
 - [Matriz-BACTH](https://github.com/fcoagz/Matriz-BACTH): una matriz es un conjunto de números reales, que están dispuestos en «m» filas y en «n» columnas: A los números que forman la matriz se les llama elementos. Con la ayuda de este programa te puede resolver las matrices en solo segundos, te muestra paso a paso la operacion de la matriz
-- kaRmaland Money
+- kaRmaland Money: no terminado
+- [Tuna-viTools](https://github.com/fcoagz/Tuna-viTools): es una herramienta para Tuna-viDS que utiliza comandos FFmpeg para la conversión de formato AVI
 
