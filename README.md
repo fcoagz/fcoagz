@@ -11,3 +11,5 @@ los presentes proyecto que ha realizado son:
 - kaRmaland Money: no terminado
 - [Tuna-viTools](https://github.com/fcoagz/Tuna-viTools): es una herramienta para Tuna-viDS que utiliza comandos FFmpeg para la conversión de formato AVI
 
+Habilidades:
+<img src="/imagen/bat32.png" alt="Batch"/>
