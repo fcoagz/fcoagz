@@ -1,5 +1,5 @@
 ### hello, i'm cisco 👋
-**Soy un estudiante de informática en Venezuela**, especializado en el lenguaje de programación **Python**, además de otros lenguajes que estoy aprendiendo. Disfruto creando proyectos y bibliotecas.
+**Soy un estudiante de informática en la UPT de Aragua**, especializado en el lenguaje de programación **Python**, además de otros lenguajes que estoy aprendiendo. Disfruto creando proyectos y bibliotecas.
 
 **Contacto: [Telegram](https://t.me/fcoagz)**
 
