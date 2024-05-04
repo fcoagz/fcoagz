@@ -1,10 +1,11 @@
 ### hello, i'm cisco 👋
+
 **Soy un estudiante de informática en la UPT de Aragua**, especializado en el lenguaje de programación **Python**, además de otros lenguajes que estoy aprendiendo. Disfruto creando proyectos y bibliotecas.
 
-**Contacto: [Telegram](https://t.me/fcoagz)**
+**Contacto: [Linkedln](https://www.linkedin.com/in/francisco-griman), [Telegram](https://t.me/fcoagz), [X (Twitter)](https://x.com/fcoagz)**
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fcoagz)
-
-| Programming Languages | Stats |
+| Programming Languages | Stats | 
 |-----------------------|-------|
-|[![My Skills](https://skillicons.dev/icons?i=c,nodejs,py)](https://skillicons.dev)| [![Francisco Griman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcoagz&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+|[![My Skills](https://skillicons.dev/icons?i=c,nodejs,py)](https://skillicons.dev)| ![Francisco Griman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcoagz&show_icons=true&theme=transparent) | 
+
+[![ko-fi](https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi)](https://ko-fi.com/fcoagz)
