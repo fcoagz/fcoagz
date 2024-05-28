@@ -12,7 +12,7 @@ Soy un estudiante de informática en la UPT de Aragua, especializado en el lengu
 [<code><img height="25" alt="X (Twitter)" src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg"></code>](https://x.com/fcoagz)
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 | Activity | Stats |
 |----------|-------|
