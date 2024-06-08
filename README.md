@@ -19,3 +19,4 @@ Soy un estudiante de informática en la UPT de Aragua, especializado en el lengu
 |[![Discord Presence](https://lanyard.cnrad.dev/api/794070159018819584)](https://discord.com/users/794070159018819584)| ![Francisco Griman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcoagz&show_icons=true&theme=transparent) |
 
 [![ko-fi](https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi)](https://ko-fi.com/fcoagz)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dfcoagz%26type%3Dpatrons&style=flat)](https://patreon.com/fcoagz)
