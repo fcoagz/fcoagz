@@ -20,3 +20,6 @@ Soy un estudiante de informática en la UPT de Aragua, especializado en el lengu
 
 [![ko-fi](https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi)](https://ko-fi.com/fcoagz)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dfcoagz%26type%3Dpatrons&style=flat)](https://patreon.com/fcoagz)
+
+<div style="color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://raw.githubusercontent.com/fcoagz/fcoagz/main/images/rubius.jpg') no-repeat center center fixed; background-size: cover;">
+</div>
