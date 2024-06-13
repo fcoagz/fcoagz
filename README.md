@@ -1,10 +1,9 @@
 ## hello, i'm cisco 👋
 
-Soy un estudiante de informática en la UPT de Aragua, especializado en el lenguaje de programación Python, además de otros lenguajes que estoy aprendiendo. Disfruto creando proyectos y bibliotecas.
-
-**Programming Languages**:
-[<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://en.wikipedia.org/wiki/Python_(programming_language))
-[<code><img height="25" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://es.wikipedia.org/wiki/JavaScript)
+- Estudiante de informática en la UPT de Aragua.
+- Actualmente, estoy aprendiendo [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+ y [Node.js](https://es.wikipedia.org/wiki/Node.js).
+- Disfruto creando proyectos, APIs y bibliotecas.
 
 **Contacto**:
 [<code><img height="25" alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"></code>](https://www.linkedin.com/in/francisco-griman)
@@ -20,6 +19,3 @@ Soy un estudiante de informática en la UPT de Aragua, especializado en el lengu
 
 [![ko-fi](https://shields.io/badge/kofi-Buy_a_coffee-ff5f5f?logo=ko-fi&style=for-the-badgeKofi)](https://ko-fi.com/fcoagz)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dfcoagz%26type%3Dpatrons&style=flat)](https://patreon.com/fcoagz)
-
-<div style="color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://raw.githubusercontent.com/fcoagz/fcoagz/main/images/rubius.jpg') no-repeat center center fixed; background-size: cover;">
-</div>
