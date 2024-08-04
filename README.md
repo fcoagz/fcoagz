@@ -1,6 +1,6 @@
 ## hello, i'm cisco 👋
 
-<img src="https://github.com/user-attachments/assets/e734c5ba-3b17-45f2-a474-96a1d43df462" align="right" width="165">
+<img src="https://github.com/user-attachments/assets/e734c5ba-3b17-45f2-a474-96a1d43df462" align="right" width="150">
 
 - Estudiante de informática en la UPT de Aragua.
 - Actualmente, estoy aprendiendo [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
