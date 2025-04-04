@@ -8,9 +8,9 @@
 - Disfruto creando proyectos, APIs y bibliotecas.
 
 ## social networks
-- [<code><img height="25" alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"> Linkedin</code>](https://www.linkedin.com/in/francisco-griman)
-- [<code><img height="25" alt="Telegram" src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png"> Telegram</code>](https://t.me/fcoagz)
-- [<code><img height="25" alt="X (Twitter)" src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg"> X (Twitter)</code>](https://x.com/fcoagz)
+[<code><img height="25" alt="Linkedin" src="https://github.com/user-attachments/assets/569e331d-e4c0-4575-b742-cf1106012b31"></code>](https://www.linkedin.com/in/francisco-griman)
+[<code><img height="25" alt="Telegram" src="https://github.com/user-attachments/assets/8590710a-3b54-4bb6-88e1-7283c2b3fcf1"></code>](https://t.me/fcoagz)
+[<code><img height="25" alt="X (Twitter)" src="https://github.com/user-attachments/assets/642b3027-e1b4-490a-b743-982751445b20"></code>](https://x.com/fcoagz)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
